@@ -1,0 +1,135 @@
+<CRANTaskView>
+
+   <name>ForSci</name>
+   <topic>Forensic Science with R</topic>
+   <maintainer email="sctyner@iastate.edu">Sam Tyner</maintainer>
+   <version>2018-02-13</version>
+
+  <info>
+    <p>
+      This CRAN task view contains a list of packages, grouped by discipline, that
+      can be used to perform forensci science tasks in R. 
+    </p>
+    <p>
+      Unless otherwise mentioned, all packages presented with hyperlinks 
+      are available from CRAN, the
+      Comprehensive R Archive Network. 
+    </p>
+    <p>
+      Several of the areas discussed in this Task View are undergoing rapid
+      change. Please send suggestions for additions and extensions for this task
+      view to the <a href="mailto:sctyner@iastate.edu">task view maintainer</a>.
+    </p>
+    <p> 
+      Contributions are always welcome, and encouraged. The source file for this 
+      particular task view file are also in a GitHub repository (see below) 
+      so that pull
+      requests are also possible. 
+    </p>
+<!--<p>
+      The <code>ctv</code> package supports these Task Views. Its functions
+      <code>install.views</code> and <code>update.views</code> allow,
+      respectively, installation or update of packages from a given Task View;
+      the option <code>coreOnly</code> can restrict operations to packages labeled as
+      <em>core</em> below.
+    </p>--> 
+    <p>
+      <strong>Single Source DNA</strong>
+    </p>
+    <ul>	     
+      <li> Item one
+      </li>
+      <li> Item two
+      </li>
+      <li> <pkg>pkgname</pkg> 
+      </li>
+    </ul>
+
+    <p>
+    <strong>DNA Mixtures</strong>
+    </p>
+    <ul>	     
+      <li>Item one (<a href="http://sctyner.github.io">here's a link</a>). Here's some <code>code()</code> style dispatch via MPI.
+      </li>
+    </ul>
+
+    <p>
+    <strong>Parallel computing: Grid computing</strong>
+    </p>
+    <ul>	     
+      <li>The multiR package by Grose was presented at useR! 2008 
+	but has not been released. It may offer a snow-style framework on a grid computing platform.
+      </li>
+      <li>The <rforge>biocep-distrib</rforge> project by Chine offers a Java-based framework for local, Grid,
+        or Cloud computing. It is under active development.
+      </li>
+    </ul>
+
+
+    <p>
+    <strong>Glass</strong>
+    </p>
+    <ul>	     
+      <li> Here's a Github package <github>user/repo</github>
+      </li>
+    </ul>	     
+
+    <p>
+    <strong>Data</strong>
+    </p>
+    <ul>	     
+      <li>Data from the the book <emph>Introduction to
+          Data Analysis with R for Forensic Scientists</emph> by 
+          James Michael Curran is provided in the <pkg>dafs</pkg>
+          package by James Curran and Danny Chang.
+      </li>
+    </ul>
+
+
+
+    <p>
+    <strong>Latent Prints</strong>
+    </p>
+    <ul>	     
+       <li> Finger and shoe
+       </li>
+    </ul>
+
+    <p>
+    <strong>Handwriting</strong>
+    </p>
+    <ul>	     
+      <li>
+	Here is a Bioconductor package <bioc>maanova</bioc>. 
+      </li>
+    </ul>
+
+    <p>
+    <strong>Steganalysis</strong>
+    </p>
+    <ul>
+      <li>
+      </li>
+    </ul>
+
+  </info>
+
+  <packagelist>
+    <pkg>dafs</pkg>
+  </packagelist>
+
+  <links>
+    <a href="http://sctyner.github.io">Here's a link</a> 
+<!--    <rforge>biocep-distrib</rforge>
+    <bioc>affyPara</bioc>
+    <bioc>maanova</bioc>
+    <bioc>multtest</bioc>
+    <bioc>puma</bioc>
+    <gcode>romp</gcode>
+    <gcode>bugsparallel</gcode> 
+    <github>saptarshiguha/RHIPE</github>--> 
+    <a href="https://github.com/sctyner/ctv-forsci">GitHub repository for this Task View</a>
+  </links>
+
+</CRANTaskView>
+
