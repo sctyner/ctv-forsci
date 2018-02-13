@@ -24,12 +24,8 @@ Contributions are always welcome, and encouraged. The source file for this parti
 
 **DNA Mixtures**
 
+-   [forensic](https://cran.r-project.org/package=forensic)
 -   Item one ( [here's a link](http://sctyner.github.io)). Here's some `code()` style dispatch via MPI.
-
-**Parallel computing: Grid computing**
-
--   The multiR package by Grose was presented at useR! 2008 but has not been released. It may offer a snow-style framework on a grid computing platform.
--   The [<span class="Rforge">biocep-distrib</span>](https://R-Forge.R-project.org/projects/biocep-distrib/) project by Chine offers a Java-based framework for local, Grid, or Cloud computing. It is under active development.
 
 **Glass**
 

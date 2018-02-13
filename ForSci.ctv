@@ -48,23 +48,13 @@
     <p>
     <strong>DNA Mixtures</strong>
     </p>
-    <ul>	     
+    <ul>	  
+      <li>
+        <pkg>forensic</pkg>
+      </li>
       <li>Item one (<a href="http://sctyner.github.io">here's a link</a>). Here's some <code>code()</code> style dispatch via MPI.
       </li>
     </ul>
-
-    <p>
-    <strong>Parallel computing: Grid computing</strong>
-    </p>
-    <ul>	     
-      <li>The multiR package by Grose was presented at useR! 2008 
-	but has not been released. It may offer a snow-style framework on a grid computing platform.
-      </li>
-      <li>The <rforge>biocep-distrib</rforge> project by Chine offers a Java-based framework for local, Grid,
-        or Cloud computing. It is under active development.
-      </li>
-    </ul>
-
 
     <p>
     <strong>Glass</strong>
