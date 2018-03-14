@@ -58,7 +58,14 @@
         <pkg>DNAtools</pkg>: Authored by Torben Tvedebrink and James Curran. Date last modified on CRAN: 2017-02-10. Computationally efficient tools for perfroming all pairwise comparisons for various allele and allele counts in a DNA database. Depends on <pkg>Rsolnp</pkg>, <pkg>multicool</pkg>. 
       </li>
       <li>
-        <pkg>forensim</pkg>: Authored by Hinda Haned. Date last modified on CRAN: 2013-09-14. Provides several GUIs for the interpretation, simulation, and visualization of DNA mixture data. Depends on the <pkg>methods</pkg>, <pkg>tcltk</pkg>, <pkg>tcltk2</pkg>, and <pkg>tkrplot</pkg> packages.   </li>
+        <pkg>forensim</pkg>: Authored by Hinda Haned. Date last modified on CRAN: 2013-09-14. Provides several GUIs for the interpretation, simulation, and visualization of DNA mixture data. Depends on the <pkg>methods</pkg>, <pkg>tcltk</pkg>, <pkg>tcltk2</pkg>, and <pkg>tkrplot</pkg> packages.   
+      </li>
+      <li>
+        <pkg>mixsep</pkg>: Authored by Date Torben Tvedebrink. Date last modified on CRAN: 2013-04-23. Implements analyses of 2- and 3-person DNA mixture separation in a GUI.  Depends on the <pkg>MASS</pkg>, <pkg>tcltk</pkg>, <pkg>tcltk2</pkg>, and <pkg>RODBC</pkg> packages.   
+      </li>
+      <li>
+        <pkg>rforensicbatwing</pkg>: Authored by Mikkel Meyer Andersen and Ian J. Wilson. Date last modified on CRAN: 2014-06-27. 
+      </li>
    </ul>
 
     <p>
