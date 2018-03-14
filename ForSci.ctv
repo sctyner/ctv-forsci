@@ -51,9 +51,15 @@
       <li>
         <pkg>forensic</pkg>: Authored by Miriam Marusiakova. Date last modified on CRAN: 2012-10-29 08:58. Contains 5 functions for computing likelihood ratios and random match probabilities under various hypotheses. Depends on the packages <pkg>genetics</pkg> and <pkg>combinat</pkg>. 
       </li>
-      <li>Item one (<a href="http://sctyner.github.io">here's a link</a>). Here's some <code>code()</code> 
+      <li> 
+        <pkg>paramlink</pkg>: Authored by Magnus Dehli Vigeland. Date last modified on CRAN: 2018-01-05. Contains methods for parametric linkage and other pedigree analyses. Forensic applications include exclusion probabilities, genotype distributions and conditional simulations. 	Imports functions from the <pkg>packages</pkg>, <pkg>assertthat</pkg>, <pkg>graphics</pkg>, <pkg>kinship2</pkg>, <pkg>maxLik</pkg>, <pkg>stats</pkg>, and <pkg>utils</pkg> packages. 
       </li>
-    </ul>
+      <li>
+        <pkg>DNAtools</pkg>: Authored by Torben Tvedebrink and James Curran. Date last modified on CRAN: 2017-02-10. Computationally efficient tools for perfroming all pairwise comparisons for various allele and allele counts in a DNA database. Depends on <pkg>Rsolnp</pkg>, <pkg>multicool</pkg>. 
+      </li>
+      <li>
+        <pkg>forensim</pkg>: Authored by Hinda Haned. Date last modified on CRAN: 2013-09-14. Provides several GUIs for the interpretation, simulation, and visualization of DNA mixture data. Depends on the <pkg>methods</pkg>, <pkg>tcltk</pkg>, <pkg>tcltk2</pkg>, and <pkg>tkrplot</pkg> packages.   </li>
+   </ul>
 
     <p>
     <strong>Glass</strong>
