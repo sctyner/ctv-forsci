@@ -133,7 +133,7 @@ fragments. A large simulation size will provide precise estimates of transfer pr
           James Michael Curran is provided in the <pkg>dafs</pkg>
           package by James Curran and Danny Chang.
       </li>
-      <li> The data object <code>fgl</code> in the <pkg>MASS</pkg> contains 214 observations of 10 variables on glass fragments collected by B. German. 
+      <li> The data object <code>fgl</code> in the <pkg>MASS</pkg> package contains 214 observations of 10 variables on glass fragments collected by B. German. 
       </li>
       <li>
       <github>heike/x3ptools</github> is a package under development for working with x3p image files in R. Authored by Heike Hofmann, Ganesh Krishnan, and Eric Hare. For more information about x3p files, see http://www.openfmc.org/.

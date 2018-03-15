@@ -33,26 +33,26 @@ Contributions are always welcome, and encouraged. The source file for this parti
 
 **Firearm/Toolmark Evidence**
 
--   [bulletr](https://cran.r-project.org/package=bulletr/index.html): Authored by Eric Hare, Heike Hofmann, and Ganesh Krishnan. Date last modified on CRAN: 2017-04-25. Development version available at CSAFE-ISU/bulletr . Analyzing and comparing striations on fired bullets using x3p format data. Relies on the [xml2](../packages/xml2/index.html), [zoo](../packages/zoo/index.html), [ggplot2](../packages/ggplot2/index.html), [plyr](../packages/plyr/index.html), [dplyr](../packages/dplyr/index.html), [reshape2](../packages/reshape2/index.html), [plotly](../packages/plotly/index.html), [robustbase](../packages/robustbase/index.html), and [smoother](../packages/smoother) packages.
+-   [bulletr](https://cran.r-project.org/package=bulletr/index.html): Authored by Eric Hare, Heike Hofmann, and Ganesh Krishnan. Date last modified on CRAN: 2017-04-25. Development version available at [<span class="GitHub">bulletr</span>](https://github.com/CSAFE-ISU/bulletr/). Analyzing and comparing striations on fired bullets using x3p format data. Relies on the [xml2](../packages/xml2/index.html), [zoo](../packages/zoo/index.html), [ggplot2](../packages/ggplot2/index.html), [plyr](../packages/plyr/index.html), [dplyr](../packages/dplyr/index.html), [reshape2](../packages/reshape2/index.html), [plotly](../packages/plotly/index.html), [robustbase](../packages/robustbase/index.html), and [smoother](../packages/smoother) packages.
 
 **Latent Print Evidence**
 
--   CSAFE-ISU/shoeprintr is a package under development for comparing two shoeprint images. Authored by Soyoung Park and Alicia Carriquiry.
--   CSAFE-ISU/solefinder is a package under development containing a bundle of tools to analyze and compare shoeprints. Authored by Guillermo Basulto-Elias and MartinSilerio-Vazquez.
+-   [<span class="GitHub">shoeprintr</span>](https://github.com/CSAFE-ISU/shoeprintr/) is a package under development for comparing two shoeprint images. Authored by Soyoung Park and Alicia Carriquiry.
+-   [<span class="GitHub">solefinder</span>](https://github.com/CSAFE-ISU/solefinder/) is a package under development containing a bundle of tools to analyze and compare shoeprints. Authored by Guillermo Basulto-Elias and MartinSilerio-Vazquez.
 
 **Handwriting**
 
--   CSAFE-ISU/handwriter is a package under development for foresic handwriting analysis. Authored by Nick Berry.
+-   [<span class="GitHub">handwriter</span>](https://github.com/CSAFE-ISU/handwriter/) is a package under development for foresic handwriting analysis. Authored by Nick Berry.
 
 **Steganalysis**
 
--   richfitz/stegasaur is a package under development for stenanography (embedding hidden messages in images) in R. Authored by Rich FitzJohn and David Miller.
+-   [<span class="GitHub">stegasaur</span>](https://github.com/richfitz/stegasaur/) is a package under development for stenanography (embedding hidden messages in images) in R. Authored by Rich FitzJohn and David Miller.
 
 **Datasets and data tools**
 
 -   Data from the the book Introduction to Data Analysis with R for Forensic Scientists by James Michael Curran is provided in the [dafs](https://cran.r-project.org/package=dafs) package by James Curran and Danny Chang.
--   The data object `fgl` in the [MASS](https://cran.r-project.org/package=MASS) contains 214 observations of 10 variables on glass fragments collected by B. German.
--   heike/x3ptools is a package under development for working with x3p image files in R. Authored by Heike Hofmann, Ganesh Krishnan, and Eric Hare. For more information about x3p files, see http://www.openfmc.org/.
+-   The data object `fgl` in the [MASS](https://cran.r-project.org/package=MASS) package contains 214 observations of 10 variables on glass fragments collected by B. German.
+-   [<span class="GitHub">x3ptools</span>](https://github.com/heike/x3ptools/) is a package under development for working with x3p image files in R. Authored by Heike Hofmann, Ganesh Krishnan, and Eric Hare. For more information about x3p files, see http://www.openfmc.org/.
 
 ### CRAN packages:
 
