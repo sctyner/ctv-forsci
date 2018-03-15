@@ -32,7 +32,7 @@
       the option <code>coreOnly</code> can restrict operations to packages labeled as
       <em>core</em> below.
     </p>--> 
-    <p>
+<!--    <p>
       <strong>Single Source DNA</strong>
     </p>
     <ul>	     
@@ -43,9 +43,9 @@
       <li> <pkg>pkgname</pkg> 
       </li>
     </ul>
-
+-->
     <p>
-    <strong>DNA Mixtures</strong>
+    <strong>DNA Evidence</strong>
     </p>
     <ul>	  
       <li>
@@ -64,20 +64,68 @@
         <pkg>mixsep</pkg>: Authored by Date Torben Tvedebrink. Date last modified on CRAN: 2013-04-23. Implements analyses of 2- and 3-person DNA mixture separation in a GUI.  Depends on the <pkg>MASS</pkg>, <pkg>tcltk</pkg>, <pkg>tcltk2</pkg>, and <pkg>RODBC</pkg> packages.   
       </li>
       <li>
-        <pkg>rforensicbatwing</pkg>: Authored by Mikkel Meyer Andersen and Ian J. Wilson. Date last modified on CRAN: 2014-06-27. 
+        <pkg>rforensicbatwing</pkg>: Authored by Mikkel Meyer Andersen and Ian J. Wilson. Date last modified on CRAN: 2014-06-27. An R implementation of the C program BATWING for calculating forensic trace-suspect match probabilities. The primary functions <code>batwing</code> and <code>coalmatchprob</code> estimate the trace-suspect match probability for a lineage haplotype of STR markers using <a href="https://en.wikipedia.org/wiki/Coalescent_theory">coalescent theory</a>.
       </li>
+       <li>
+        <pkg>strvalidator</pkg>: Authored by Oskar Hansson. Date last modified on CRAN: 2017-08-11. From the author, "An open source platform for validation and process control. Tools to analyze data from internal validation of forensic short tandem repeat (STR) kits are provided." Requires installation of <pkg>RGtk2</pkg> among other packages, and this <a href="https://gist.github.com/sebkopf/9405675#troubleshooting-for-gtk-224-issues">can be difficult</a>.
+      </li>
+      <li>
+        <pkg>pcrsim</pkg>: Authored by Oskar Hansson. Date last modified on CRAN: 2017-03-17. Provides GUI for simulating the forensic DNA process: generate random or fixed DNA profiles, create forensic samples including mixtures of diploid and haploid cells, simulate DNA extraction, normalization, degradation, amplification including stutters and inter-locus balance, and capillary electrophoresis. Depends on <pkg>strvalidator</pkg>. 
+      </li>
+      
    </ul>
 
     <p>
-    <strong>Glass</strong>
+    <strong>Glass Evidence </strong>
     </p>
-    <ul>	     
-      <li> Here's a Github package <github>user/repo</github>
+    <ul>	 
+      <li>
+      <pkg>tfer</pkg>: Authored by James Curran and TingYu Huang. Date last modified on CRAN: 2010-11-07. From the authors, "functions for simulating the number of recovered glass fragments given
+the conditions set by the user on factors affecting the transfer, persistence and recovery of glass
+fragments. A large simulation size will provide precise estimates of transfer probabilities to be used in the Bayesian interpretation of forensic glass evidence." Depends on <pkg>methods</pkg> package. 
       </li>
     </ul>	     
 
     <p>
-    <strong>Data</strong>
+    <strong>Firearm/Toolmark Evidence</strong>
+    </p>
+    <ul>	     
+   <!--    <li> Finger and shoe
+       </li> --> 
+       <li> <pkg>bulletr</pkg>:  Authored by Eric Hare, Heike Hofmann, and Ganesh Krishnan. Date last modified on CRAN: 2017-04-25. Development version available at <github>CSAFE-ISU/bulletr</github>. Analyzing and comparing striations on fired bullets using x3p format data. Relies on the <pkg>xml2</pkg>, <pkg>zoo</pkg>, <pkg>ggplot2</pkg>, <pkg>plyr</pkg>, <pkg>dplyr</pkg>, <pkg>reshape2</pkg>, <pkg>plotly</pkg>, <pkg>robustbase</pkg>, and <pkg>smoother</pkg> packages. 
+      </li>
+    </ul>
+    
+    <p>
+    <strong>Latent Print Evidence</strong>
+    </p>
+    <ul>	     
+       <li> <github>CSAFE-ISU/shoeprintr</github> is a package under development for comparing two shoeprint images. Authored by Soyoung Park and Alicia Carriquiry. 
+      </li>
+      <li> <github>CSAFE-ISU/solefinder</github> is a package under development containing a bundle of tools to analyze and compare shoeprints. Authored by Guillermo Basulto-Elias and MartinSilerio-Vazquez.  
+      </li>
+    </ul>
+
+    <p>
+    <strong>Handwriting</strong>
+    </p>
+    <ul>	     
+      <li> 
+      <github>CSAFE-ISU/handwriter</github> is a package under development for foresic handwriting analysis. Authored by Nick Berry.  
+      </li>
+    </ul>
+<!--	Here is a Bioconductor package <bioc>maanova</bioc>. -->
+    <p>
+    <strong>Steganalysis</strong>
+    </p>
+    <ul>
+      <li>
+      <github>richfitz/stegasaur</github> is a package under development for stenanography (embedding hidden messages in images) in R. Authored by Rich FitzJohn and David Miller. 
+      </li>
+    </ul>
+    
+    <p>
+    <strong>Datasets and data tools</strong>
     </p>
     <ul>	     
       <li>Data from the the book <emph>Introduction to
@@ -87,32 +135,8 @@
       </li>
       <li> The data object <code>fgl</code> in the <pkg>MASS</pkg> contains 214 observations of 10 variables on glass fragments collected by B. German. 
       </li>
-    </ul>
-
-
-
-    <p>
-    <strong>Latent Prints</strong>
-    </p>
-    <ul>	     
-       <li> Finger and shoe
-       </li>
-    </ul>
-
-    <p>
-    <strong>Handwriting</strong>
-    </p>
-    <ul>	     
       <li>
-	Here is a Bioconductor package <bioc>maanova</bioc>. 
-      </li>
-    </ul>
-
-    <p>
-    <strong>Steganalysis</strong>
-    </p>
-    <ul>
-      <li>
+      <github>heike/x3ptools</github> is a package under development for working with x3p image files in R. Authored by Heike Hofmann, Ganesh Krishnan, and Eric Hare. For more information about x3p files, see http://www.openfmc.org/.
       </li>
     </ul>
 
