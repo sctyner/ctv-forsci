@@ -144,6 +144,16 @@ fragments. A large simulation size will provide precise estimates of transfer pr
 
   <packagelist>
     <pkg>dafs</pkg>
+    <pkg>forensic</pkg>
+    <pkg>paramlink</pkg>
+    <pkg>DNAtools</pkg>
+    <pkg>forensim</pkg>
+    <pkg>mixsep</pkg>
+    <pkg>rforensicbatwing</pkg>
+    <pkg>strvalidator</pkg> 
+    <pkg>pcrsim</pkg>
+    <pkg>tfer</pkg>
+    <pkg>bulletr</pkg>
   </packagelist>
 
   <links>

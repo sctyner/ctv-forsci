@@ -56,7 +56,17 @@ Contributions are always welcome, and encouraged. The source file for this parti
 
 ### CRAN packages:
 
+-   [bulletr](https://cran.r-project.org/package=bulletr)
 -   [dafs](https://cran.r-project.org/package=dafs)
+-   [DNAtools](https://cran.r-project.org/package=DNAtools)
+-   [forensic](https://cran.r-project.org/package=forensic)
+-   [forensim](https://cran.r-project.org/package=forensim)
+-   [mixsep](https://cran.r-project.org/package=mixsep)
+-   [paramlink](https://cran.r-project.org/package=paramlink)
+-   [pcrsim](https://cran.r-project.org/package=pcrsim)
+-   [rforensicbatwing](https://cran.r-project.org/package=rforensicbatwing)
+-   [strvalidator](https://cran.r-project.org/package=strvalidator)
+-   [tfer](https://cran.r-project.org/package=tfer)
 
 ### Related links:
 
